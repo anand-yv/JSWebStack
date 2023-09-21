@@ -4,7 +4,7 @@ Welcome to the **JSWebStack** repository! This repository is dedicated to my per
 
 ## What's Inside
 
-- **JavaScript**: Explore the fundamentals of JavaScript and its various applications.
-- **React.js**: Learn how to build dynamic user interfaces with the React.js library.
-- **Node.js**: Dive into server-side JavaScript development with Node.js.
-- **MongoDB**: Discover the world of NoSQL databases using MongoDB.
+- **JavaScript**: `Building a solid foundation in JavaScript, the core of web development.`
+- **React.js**: `Exploring React.js, a powerful library for dynamic user interfaces.`
+- **Node.js**: `Getting into server-side JavaScript with Node.js.`
+- **MongoDB**: `Learning about NoSQL databases with MongoDB.`
