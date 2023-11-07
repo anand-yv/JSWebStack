@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #e3f2fd;
+}
+
+.container{
+    position: relative;
+    background-image: url("./images/bg.png");
+    background-size: cover;
+    padding: 25px;
+    border-radius: 28px;
+    max-width: 380px;
+    width: 100%;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+
+header,
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo img{
+    width: 48px;
+    margin-right: 10px;
+}
+
+h5{
+    margin-top: 4px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+}
+
+header .chip{
+    width: 60px;
+}
+
+h6{
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+}
+h5.number{
+    margin-top: 4px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.container .card-details{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+h5.name{
+    margin-top: 20px;
+}
+
+
+/*
+.credit-card{
+    height : 250px;
+    width: 440px;
+    border-radius: 25px;
+    padding: 25px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    background-color: #121212;
+}
+
+.credit-card .logo-detail{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-detail .logo-and-text{
+    display: flex;
+    align-items: center;
+}
+
+.logo-and-text .logo{
+    height: 32px;
+    width: 48px;
+    margin-right: 10px;
+}
+
+.logo-and-text .log-text{
+    font-size: 26px;
+}
+
+.logo-detail .chip{
+    height: 32px;
+    width: 48px;
+}
+
+.card-details{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.card-details .card-number .text{
+    font-size: 16px;
+}
+
+.card-details .card-number .number{
+    margin-top: 4px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.card-details .card-number .holder-name{
+    margin-top: 20px;
+    font-size: 20px;
+} */
