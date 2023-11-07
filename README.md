@@ -13,3 +13,4 @@ Welcome to the **JSWebStack** repository! This repository is dedicated to my per
 ## 100 Days of Code
 
 - **Day 1 (06-11-2023)**: HTML && CSS - Made a project on Flipping Card UI Design using HTML and CSS with the help of Code Help YouTube channel.
+- **Day 2 (07-11-2023)**: HTML && CSS - Made a project on Credi Card UI Design using HTML and CSS with the help of Code Help YouTube channel.
